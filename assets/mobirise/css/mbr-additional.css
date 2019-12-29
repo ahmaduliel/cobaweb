@@ -1138,7 +1138,7 @@ section.lazy-placeholder:after {
 .cid-rKCNMwvEGG {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rKCNMwvEGG .mbr-section-text {
   color: #767676;
@@ -1194,10 +1194,13 @@ section.lazy-placeholder:after {
 .cid-rKCNMwvEGG .nav-tabs .nav-link.active:hover {
   border: 2px solid #5dd6ff;
 }
+.cid-rKCNMwvEGG H2 {
+  color: #22c7ff;
+}
 .cid-rKCXw97LFD {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rKCXw97LFD .mbr-section-subtitle,
 .cid-rKCXw97LFD .mbr-text {
